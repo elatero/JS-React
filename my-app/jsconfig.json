@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "es2015",
+    "module": "esnext"
+  },
+  "exclude": ["node_modules"]
+}
